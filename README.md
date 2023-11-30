@@ -44,18 +44,27 @@ for (let i = 0; i < herois.length; i++) {
 ````
 
 # Níveis
-- Ferro: XP < 1000
-- Bronze: 1001 <= XP <= 2000
-- Prata: 2001 <= XP <= 5000
-- Ouro: 6001 <= XP <= 7000
-- Platina: 7001 <= XP <= 8000
-- Ascendente: 8001 <= XP <= 9000
-- Imortal: 9001 <= XP <= 10000
-- Radiante: XP >= 10001
+- Ferro: 
+    - XP: 1000
+- Bronze:
+    - XP: 1001 à 2000
+- Prata: 
+    - XP: 2001 à 5000
+- Ouro: 
+    - XP: 6001 à 7000
+- Platina: 
+    - XP: 7001 à 8000
+- Ascendente: 
+    - XP: 8001 à 9000
+- Imortal: 
+    - XP: 9001 à 10000
+- Radiante: 
+    - XP: 10001
 ## Como Executar
 O arquivo **package.json** contém um script mais facil para execução basta digitar o código abaixo em seu console
 
-bash
+bash:
+
 ``node start``
 
 **Certifique-se de ter o Node.js instalado em seu sistema.**
