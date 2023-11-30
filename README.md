@@ -44,22 +44,22 @@ for (let i = 0; i < herois.length; i++) {
 ````
 
 # Níveis
-- Ferro: 
-    - XP: 1000
-- Bronze:
-    - XP: 1001 à 2000
-- Prata: 
-    - XP: 2001 à 5000
-- Ouro: 
-    - XP: 6001 à 7000
-- Platina: 
-    - XP: 7001 à 8000
-- Ascendente: 
-    - XP: 8001 à 9000
-- Imortal: 
-    - XP: 9001 à 10000
-- Radiante: 
-    - XP: 10001
+- ***Ferro***: 
+    - XP: **1000**
+- ***Bronze***:
+    - XP: **1001 à 2000**
+- ***Prata***: 
+    - XP: **2001 à 5000**
+- ***Ouro***: 
+    - XP: **6001 à 7000**
+- ***Platina***: 
+    - XP: **7001 à 8000**
+- ***Ascendente***: 
+    - XP: **8001 à 9000**
+- ***Imortal***: 
+    - XP: **9001 à 10000**
+- ***Radiante***: 
+    - XP: **10001**
 ## Como Executar
 O arquivo **package.json** contém um script mais facil para execução basta digitar o código abaixo em seu console
 
